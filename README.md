@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nelson
+- 👀 I’m interested in coding and design
+- 🌱 I’m currently learning java and javascript
+- 💞️ I’m looking to collaborate on various projects
+- 📫 How to reach me: Nelsonph11@hotmail.com
